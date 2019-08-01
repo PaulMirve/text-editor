@@ -1,0 +1,15 @@
+.DraftEditor-root{
+    height: 400px;
+    border: 1px solid black
+}
+
+.DraftEditor-editorContainer, .public-DraftEditor-content{
+    height: 100%;
+}
+
+.superFancyBlockquote {
+    color: #999;
+    font-family: 'Hoefler Text', Georgia, serif;
+    font-style: italic;
+    text-align: center;
+  }
